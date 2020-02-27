@@ -1,0 +1,194 @@
+country,beer,spirit,wine,liters,continent,cont_AS,cont_EU,cont_NA,cont_OC,cont_SA,beer_level
+Afghanistan,0.0,0,0,0.0,AS,1,0,0,0,0,low
+Albania,89.0,132,54,4.9,EU,0,1,0,0,0,low
+Algeria,25.0,0,14,0.7,AF,0,0,0,0,0,low
+Andorra,245.0,138,312,12.4,EU,0,1,0,0,0,high
+Angola,217.0,57,45,5.9,AF,0,0,0,0,0,high
+Antigua & Barbuda,102.0,128,45,4.9,NA,0,0,1,0,0,med
+Argentina,193.0,25,221,8.3,SA,0,0,0,0,1,med
+Armenia,21.0,179,11,3.8,EU,0,1,0,0,0,low
+Australia,261.0,72,212,10.4,OC,0,0,0,1,0,high
+Austria,279.0,75,191,9.7,EU,0,1,0,0,0,high
+Azerbaijan,21.0,46,5,1.3,EU,0,1,0,0,0,low
+Bahamas,122.0,176,51,6.3,NA,0,0,1,0,0,med
+Bahrain,42.0,63,7,2.0,AS,1,0,0,0,0,low
+Bangladesh,0.0,0,0,0.0,AS,1,0,0,0,0,low
+Barbados,143.0,173,36,6.3,NA,0,0,1,0,0,med
+Belarus,142.0,373,42,14.4,EU,0,1,0,0,0,med
+Belgium,295.0,84,212,10.5,EU,0,1,0,0,0,high
+Belize,263.0,114,8,6.8,NA,0,0,1,0,0,high
+Benin,34.0,4,13,1.1,AF,0,0,0,0,0,low
+Bhutan,23.0,0,0,0.4,AS,1,0,0,0,0,low
+Bolivia,167.0,41,8,3.8,SA,0,0,0,0,1,med
+Bosnia-Herzegovina,76.0,173,8,4.6,EU,0,1,0,0,0,low
+Botswana,173.0,35,35,5.4,AF,0,0,0,0,0,med
+Brazil,245.0,145,16,7.2,SA,0,0,0,0,1,high
+Brunei,31.0,2,1,0.6,AS,1,0,0,0,0,low
+Bulgaria,231.0,252,94,10.3,EU,0,1,0,0,0,high
+Burkina Faso,25.0,7,7,4.3,AF,0,0,0,0,0,low
+Burundi,88.0,0,0,6.3,AF,0,0,0,0,0,low
+Cote d'Ivoire,37.0,1,7,4.0,AF,0,0,0,0,0,low
+Cabo Verde,144.0,56,16,4.0,AF,0,0,0,0,0,med
+Cambodia,57.0,65,1,2.2,AS,1,0,0,0,0,low
+Cameroon,147.0,1,4,5.8,AF,0,0,0,0,0,med
+Canada,240.0,122,100,8.2,NA,0,0,1,0,0,high
+Central African Republic,17.0,2,1,1.8,AF,0,0,0,0,0,low
+Chad,15.0,1,1,0.4,AF,0,0,0,0,0,low
+Chile,130.0,124,172,7.6,SA,0,0,0,0,1,med
+China,79.0,192,8,5.0,AS,1,0,0,0,0,low
+Colombia,159.0,76,3,4.2,SA,0,0,0,0,1,med
+Comoros,1.0,3,1,0.1,AF,0,0,0,0,0,low
+Congo,76.0,1,9,1.7,AF,0,0,0,0,0,low
+Cook Islands,0.0,254,74,5.9,OC,0,0,0,1,0,low
+Costa Rica,149.0,87,11,4.4,NA,0,0,1,0,0,med
+Croatia,230.0,87,254,10.2,EU,0,1,0,0,0,high
+Cuba,93.0,137,5,4.2,NA,0,0,1,0,0,low
+Cyprus,192.0,154,113,8.2,EU,0,1,0,0,0,med
+Czech Republic,361.0,170,134,11.8,EU,0,1,0,0,0,high
+North Korea,0.0,0,0,0.0,AS,1,0,0,0,0,low
+DR Congo,32.0,3,1,2.3,AF,0,0,0,0,0,low
+Denmark,224.0,81,278,10.4,EU,0,1,0,0,0,high
+Djibouti,15.0,44,3,1.1,AF,0,0,0,0,0,low
+Dominica,52.0,286,26,6.6,NA,0,0,1,0,0,low
+Dominican Republic,193.0,147,9,6.2,NA,0,0,1,0,0,med
+Ecuador,162.0,74,3,4.2,SA,0,0,0,0,1,med
+Egypt,6.0,4,1,0.2,AF,0,0,0,0,0,low
+El Salvador,52.0,69,2,2.2,NA,0,0,1,0,0,low
+Equatorial Guinea,92.0,0,233,5.8,AF,0,0,0,0,0,low
+Eritrea,18.0,0,0,0.5,AF,0,0,0,0,0,low
+Estonia,224.0,194,59,9.5,EU,0,1,0,0,0,high
+Ethiopia,20.0,3,0,0.7,AF,0,0,0,0,0,low
+Fiji,77.0,35,1,2.0,OC,0,0,0,1,0,low
+Finland,263.0,133,97,10.0,EU,0,1,0,0,0,high
+France,127.0,151,370,11.8,EU,0,1,0,0,0,med
+Gabon,347.0,98,59,8.9,AF,0,0,0,0,0,high
+Gambia,8.0,0,1,2.4,AF,0,0,0,0,0,low
+Georgia,52.0,100,149,5.4,EU,0,1,0,0,0,low
+Germany,346.0,117,175,11.3,EU,0,1,0,0,0,high
+Ghana,31.0,3,10,1.8,AF,0,0,0,0,0,low
+Greece,133.0,112,218,8.3,EU,0,1,0,0,0,med
+Grenada,199.0,438,28,11.9,NA,0,0,1,0,0,med
+Guatemala,53.0,69,2,2.2,NA,0,0,1,0,0,low
+Guinea,9.0,0,2,0.2,AF,0,0,0,0,0,low
+Guinea-Bissau,28.0,31,21,2.5,AF,0,0,0,0,0,low
+Guyana,93.0,302,1,7.1,SA,0,0,0,0,1,low
+Haiti,1.0,326,1,5.9,NA,0,0,1,0,0,low
+Honduras,69.0,98,2,3.0,NA,0,0,1,0,0,low
+Hungary,234.0,215,185,11.3,EU,0,1,0,0,0,high
+Iceland,233.0,61,78,6.6,EU,0,1,0,0,0,high
+India,9.0,114,0,2.2,AS,1,0,0,0,0,low
+Indonesia,5.0,1,0,0.1,AS,1,0,0,0,0,low
+Iran,0.0,0,0,0.0,AS,1,0,0,0,0,low
+Iraq,9.0,3,0,0.2,AS,1,0,0,0,0,low
+Ireland,313.0,118,165,11.4,EU,0,1,0,0,0,high
+Israel,63.0,69,9,2.5,AS,1,0,0,0,0,low
+Italy,85.0,42,237,6.5,EU,0,1,0,0,0,low
+Jamaica,82.0,97,9,3.4,NA,0,0,1,0,0,low
+Japan,77.0,202,16,7.0,AS,1,0,0,0,0,low
+Jordan,6.0,21,1,0.5,AS,1,0,0,0,0,low
+Kazakhstan,124.0,246,12,6.8,AS,1,0,0,0,0,med
+Kenya,58.0,22,2,1.8,AF,0,0,0,0,0,low
+Kiribati,21.0,34,1,1.0,OC,0,0,0,1,0,low
+Kuwait,0.0,0,0,0.0,AS,1,0,0,0,0,low
+Kyrgyzstan,31.0,97,6,2.4,AS,1,0,0,0,0,low
+Laos,62.0,0,123,6.2,AS,1,0,0,0,0,low
+Latvia,281.0,216,62,10.5,EU,0,1,0,0,0,high
+Lebanon,20.0,55,31,1.9,AS,1,0,0,0,0,low
+Lesotho,82.0,29,0,2.8,AF,0,0,0,0,0,low
+Liberia,19.0,152,2,3.1,AF,0,0,0,0,0,low
+Libya,0.0,0,0,0.0,AF,0,0,0,0,0,low
+Lithuania,343.0,244,56,12.9,EU,0,1,0,0,0,high
+Luxembourg,236.0,133,271,11.4,EU,0,1,0,0,0,high
+Madagascar,26.0,15,4,0.8,AF,0,0,0,0,0,low
+Malawi,8.0,11,1,1.5,AF,0,0,0,0,0,low
+Malaysia,13.0,4,0,0.3,AS,1,0,0,0,0,low
+Maldives,0.0,0,0,0.0,AS,1,0,0,0,0,low
+Mali,5.0,1,1,0.6,AF,0,0,0,0,0,low
+Malta,149.0,100,120,6.6,EU,0,1,0,0,0,med
+Marshall Islands,0.0,0,0,0.0,OC,0,0,0,1,0,low
+Mauritania,0.0,0,0,0.0,AF,0,0,0,0,0,low
+Mauritius,98.0,31,18,2.6,AF,0,0,0,0,0,low
+Mexico,238.0,68,5,5.5,NA,0,0,1,0,0,high
+Micronesia,62.0,50,18,2.3,OC,0,0,0,1,0,low
+Monaco,0.0,0,0,0.0,EU,0,1,0,0,0,low
+Mongolia,77.0,189,8,4.9,AS,1,0,0,0,0,low
+Montenegro,31.0,114,128,4.9,EU,0,1,0,0,0,low
+Morocco,12.0,6,10,0.5,AF,0,0,0,0,0,low
+Mozambique,47.0,18,5,1.3,AF,0,0,0,0,0,low
+Myanmar,5.0,1,0,0.1,AS,1,0,0,0,0,low
+Namibia,376.0,3,1,6.8,AF,0,0,0,0,0,high
+Nauru,49.0,0,8,1.0,OC,0,0,0,1,0,low
+Nepal,5.0,6,0,0.2,AS,1,0,0,0,0,low
+Netherlands,251.0,88,190,9.4,EU,0,1,0,0,0,high
+New Zealand,203.0,79,175,9.3,OC,0,0,0,1,0,high
+Nicaragua,78.0,118,1,3.5,NA,0,0,1,0,0,low
+Niger,3.0,2,1,0.1,AF,0,0,0,0,0,low
+Nigeria,42.0,5,2,9.1,AF,0,0,0,0,0,low
+Niue,188.0,200,7,7.0,OC,0,0,0,1,0,med
+Norway,169.0,71,129,6.7,EU,0,1,0,0,0,med
+Oman,22.0,16,1,0.7,AS,1,0,0,0,0,low
+Pakistan,0.0,0,0,0.0,AS,1,0,0,0,0,low
+Palau,306.0,63,23,6.9,OC,0,0,0,1,0,high
+Panama,285.0,104,18,7.2,NA,0,0,1,0,0,high
+Papua New Guinea,44.0,39,1,1.5,OC,0,0,0,1,0,low
+Paraguay,213.0,117,74,7.3,SA,0,0,0,0,1,high
+Peru,163.0,160,21,6.1,SA,0,0,0,0,1,med
+Philippines,71.0,186,1,4.6,AS,1,0,0,0,0,low
+Poland,343.0,215,56,10.9,EU,0,1,0,0,0,high
+Portugal,194.0,67,339,11.0,EU,0,1,0,0,0,med
+Qatar,1.0,42,7,0.9,AS,1,0,0,0,0,low
+South Korea,140.0,16,9,9.8,AS,1,0,0,0,0,med
+Moldova,109.0,226,18,6.3,EU,0,1,0,0,0,med
+Romania,297.0,122,167,10.4,EU,0,1,0,0,0,high
+Russian Federation,247.0,326,73,11.5,AS,1,0,0,0,0,high
+Rwanda,43.0,2,0,6.8,AF,0,0,0,0,0,low
+St. Kitts & Nevis,194.0,205,32,7.7,NA,0,0,1,0,0,med
+St. Lucia,171.0,315,71,10.1,NA,0,0,1,0,0,med
+St. Vincent & the Grenadines,120.0,221,11,6.3,NA,0,0,1,0,0,med
+Samoa,105.0,18,24,2.6,OC,0,0,0,1,0,med
+San Marino,0.0,0,0,0.0,EU,0,1,0,0,0,low
+Sao Tome & Principe,56.0,38,140,4.2,AF,0,0,0,0,0,low
+Saudi Arabia,0.0,5,0,0.1,AS,1,0,0,0,0,low
+Senegal,9.0,1,7,0.3,AF,0,0,0,0,0,low
+Serbia,283.0,131,127,9.6,EU,0,1,0,0,0,high
+Seychelles,157.0,25,51,4.1,AF,0,0,0,0,0,med
+Sierra Leone,25.0,3,2,6.7,AF,0,0,0,0,0,low
+Singapore,60.0,12,11,1.5,AS,1,0,0,0,0,low
+Slovakia,196.0,293,116,11.4,EU,0,1,0,0,0,med
+Slovenia,270.0,51,276,10.6,EU,0,1,0,0,0,high
+Solomon Islands,56.0,11,1,1.2,OC,0,0,0,1,0,low
+Somalia,0.0,0,0,0.0,AF,0,0,0,0,0,low
+South Africa,225.0,76,81,8.2,AF,0,0,0,0,0,high
+Spain,284.0,157,112,10.0,EU,0,1,0,0,0,high
+Sri Lanka,16.0,104,0,2.2,AS,1,0,0,0,0,low
+Sudan,8.0,13,0,1.7,AF,0,0,0,0,0,low
+Suriname,128.0,178,7,5.6,SA,0,0,0,0,1,med
+Swaziland,90.0,2,2,4.7,AF,0,0,0,0,0,low
+Sweden,152.0,60,186,7.2,EU,0,1,0,0,0,med
+Switzerland,185.0,100,280,10.2,EU,0,1,0,0,0,med
+Syria,5.0,35,16,1.0,AS,1,0,0,0,0,low
+Tajikistan,2.0,15,0,0.3,AS,1,0,0,0,0,low
+Thailand,99.0,258,1,6.4,AS,1,0,0,0,0,low
+Macedonia,106.0,27,86,3.9,EU,0,1,0,0,0,med
+Timor-Leste,1.0,1,4,0.1,AS,1,0,0,0,0,low
+Togo,36.0,2,19,1.3,AF,0,0,0,0,0,low
+Tonga,36.0,21,5,1.1,OC,0,0,0,1,0,low
+Trinidad & Tobago,197.0,156,7,6.4,NA,0,0,1,0,0,med
+Tunisia,51.0,3,20,1.3,AF,0,0,0,0,0,low
+Turkey,51.0,22,7,1.4,AS,1,0,0,0,0,low
+Turkmenistan,19.0,71,32,2.2,AS,1,0,0,0,0,low
+Tuvalu,6.0,41,9,1.0,OC,0,0,0,1,0,low
+Uganda,45.0,9,0,8.3,AF,0,0,0,0,0,low
+Ukraine,206.0,237,45,8.9,EU,0,1,0,0,0,high
+United Arab Emirates,16.0,135,5,2.8,AS,1,0,0,0,0,low
+United Kingdom,219.0,126,195,10.4,EU,0,1,0,0,0,high
+Tanzania,36.0,6,1,5.7,AF,0,0,0,0,0,low
+USA,249.0,158,84,8.7,NA,0,0,1,0,0,high
+Uruguay,115.0,35,220,6.6,SA,0,0,0,0,1,med
+Uzbekistan,25.0,101,8,2.4,AS,1,0,0,0,0,low
+Vanuatu,21.0,18,11,0.9,OC,0,0,0,1,0,low
+Venezuela,333.0,100,3,7.7,SA,0,0,0,0,1,high
+Vietnam,111.0,2,1,2.0,AS,1,0,0,0,0,med
+Yemen,6.0,0,0,0.1,AS,1,0,0,0,0,low
+Zambia,32.0,19,4,2.5,AF,0,0,0,0,0,low
+Zimbabwe,64.0,18,4,4.7,AF,0,0,0,0,0,low
